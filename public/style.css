@@ -1,0 +1,22 @@
+body {
+    font-family: roboto;
+    
+}
+
+.digits {
+    display: inline-block;
+    font-size: 5rem;
+    color: white;
+    text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.7);
+}
+
+.app-bg {
+    width: 100vw;
+    height: 100vh;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(180deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+td{
+	width: 150px;
+}
